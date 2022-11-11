@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jennymarinay
-- 👀 I’m interested in coding
+- 👀 I’m interested in web developing and designing
 - 🌱 I’m currently learning Python
 - 📫 How to reach me? email jennymarinay2@gmail.com
 
