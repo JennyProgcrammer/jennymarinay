@@ -5,7 +5,7 @@
 
 <h3 align="left">Languages and Tools I'm Currently Learning:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=,html,css,js,cs,py,ps,docker,git,vscode,visualstudio)](https://skillicons.dev)                 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,py,ps,docker,git,vscode,visualstudio)](https://skillicons.dev)                 
 
 
 <!---
