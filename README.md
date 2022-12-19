@@ -13,16 +13,21 @@
 <a href="https://github.com/JennyProgcrammer" target="_blank"> 
 <img src= https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a> 
-<a href="https://www.reddit.com/user/Jenny-Progcrammer)" target="_blank"> 
+<a href="https://www.reddit.com/user/Jenny-Progcrammer" target="_blank"> 
 <img src= https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white alt=reddit style="margin-bottom: 5px;" />
 </a> 
-
-![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
-![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)
+<a href="https://www.instagram.com/jenny.progcrammer/" target="_blank"> 
+<img src= https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a> 
+<a href="https://web.facebook.com/profile.php?id=100087184226840" target="_blank"> 
+<img src= https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a> 
+<a href="https://open.spotify.com/user/215tije47r2qd3toybue7yjvi?si=4a2cc31282834392" target="_blank"> 
+<img src= https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white alt=spotify style="margin-bottom: 5px;" />
+</a> 
+<a href="https://hashnode.com/@jennymarinay" target="_blank"> 
+<img src= https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
+</a> 
 
 <h1> Languages and Tools I'm Currently Learning </h1>
 
