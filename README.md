@@ -5,7 +5,12 @@
 
 <h3 align="left">Languages and Tools I'm Currently Learning:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,py,ps,docker,git,vscode,visualstudio,mysql,)](https://skillicons.dev)                 
+<!---[![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,py,ps,docker,git,vscode,visualstudio,mysql,)](https://skillicons.dev)--->
+
+
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+
+
 
 
 <!---
