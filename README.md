@@ -10,12 +10,13 @@
 <a href="https://twitter.com/jeniProgcrammer" target="_blank"> 
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a> 
-<a href="https://github.com/jennymarinay" target="_blank"> 
+<a href="https://github.com/JennyProgcrammer" target="_blank"> 
 <img src= https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a> 
+<a href="https://www.reddit.com/user/Jenny-Progcrammer)" target="_blank"> 
+<img src= https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white alt=reddit style="margin-bottom: 5px;" />
+</a> 
 
-
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
