@@ -4,8 +4,7 @@
 
 
 <!---[![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,py,ps,docker,git,vscode,visualstudio,mysql,)](https://skillicons.dev)--->
-<h1> Socmed </h1>
-
+<h1> How to reach me </h1>
 
 <a href="https://twitter.com/jeniProgcrammer" target="_blank"> 
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
